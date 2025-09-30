@@ -1,0 +1,45 @@
+
+.titulo1{
+    width: 40%;
+    margin: 3% auto;
+    background-color: rgb(255, 188, 157);
+    border-radius: 20px;
+}
+
+.banner{
+    text-align: center;
+}
+.sabores{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.sabor{
+    background-color: rgb(255, 244, 231);
+    border-radius: 20px;
+    text-align: center;
+    margin: 5px;
+    
+}
+.sabores img{
+    border-radius: 20px;
+    width: 400px;
+}
+
+
+.titulo2{
+    width: 40%;
+    margin: 3% auto;
+    background-color: rgb(255, 188, 157);
+    border-radius: 20px;
+}
+.receitas{
+    text-align: center;
+}
+.receita{
+    margin-bottom: 3%;
+}
+.receita img{
+    border-radius: 20px;
+    width: 30%;
+}

@@ -1,0 +1,55 @@
+body {
+    background-color: rgb(255, 233, 161);
+}
+
+
+header{
+    background-color: rgb(255, 233, 161);
+    align-items: center;
+    display: flex;
+}
+.pudim-logo{
+    width: 5%;
+}
+.pesquisa{
+    display: flex;
+    height: 30px;
+    width: 50%;
+    margin: 0 auto;
+}
+.search-input{
+    width: 400px;
+    border: none;
+    border-radius: 15px 0 0 15px;
+
+}
+.Search-button{
+    width: 30px;
+    border: none;
+    border-radius: 0 15px 15px 0;
+}
+.search-icon{
+   width: 20px;
+}
+table{
+    text-align: center;
+    width: 100%;
+    background-color: rgb(255, 184, 103);
+}
+a{
+    color: black;
+    outline: none;
+    text-decoration: none;
+}
+
+
+footer{
+    background-color: black;
+    color: white;
+    justify-content: space-between;
+    align-items: center;
+    line-height: 3;
+}
+footer img{
+    width: 20px;
+}
